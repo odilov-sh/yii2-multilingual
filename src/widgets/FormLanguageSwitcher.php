@@ -27,7 +27,7 @@ class FormLanguageSwitcher extends \yii\base\Widget
      *
      * @var string default view file
      */
-    private $_defaultView = '@vendor/yeesoft/yii2-multilingual/src/views/form-switcher/pills';
+    private $_defaultView = '@vendor/odilov-sh/yii2-multilingual/src/views/form-switcher/pills';
 
     public function init()
     {
